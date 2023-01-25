@@ -3,7 +3,7 @@ int main()
 {
     int a,b,c,x;
     scanf("%d%d%d",&a,&b,&c);
-    x=b+(2*c);
+    x=1*b+2*c;
     if(a<=x)
     {
         printf("Qualify");
