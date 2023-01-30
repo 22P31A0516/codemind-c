@@ -4,6 +4,6 @@ int main()
     int n;
     scanf("%d",&n);
     int c;
-    c=n*(n+1)*0.5;
+    c=n*(n+1)/2;
     printf("%d",c);
 }
