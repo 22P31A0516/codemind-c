@@ -7,7 +7,7 @@ int main()
     {
         printf("Equilateral triangle");
     }
-    else if(a==b || b==c || c==a)
+    else if(a==b||b==c||c==a)
     {
         printf("Isosceles triangle");
     }
