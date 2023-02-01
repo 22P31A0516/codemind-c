@@ -7,7 +7,7 @@ int main()
     {
         printf("weird");
     }
-    if(n%2==0)
+    else
     {
         printf("not weird");
     }
