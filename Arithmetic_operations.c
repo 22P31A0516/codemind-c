@@ -1,9 +1,8 @@
 #include<stdio.h>
 int main()
 {
-    int a,b;
+    int a,b,c,d,e,f,g;
     scanf("%d%d",&a,&b);
-    int c,d,e,f,g;
     c=a+b;
     printf("Sum:%d
 ",c);
@@ -20,3 +19,4 @@ int main()
     printf("Remainder:%d
 ",g);
 }
+    
