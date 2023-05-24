@@ -8,7 +8,7 @@ int main()
         if(n==i*i)
         {
             printf("True");
-            c++;
+            c+=1;
             break;
         }
     }
